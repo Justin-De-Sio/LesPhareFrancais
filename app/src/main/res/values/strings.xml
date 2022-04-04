@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Phares de France</string>
+    <string name="navigation_drawer_open">Ouvrir Menu de Navigation</string>
+    <string name="navigation_drawer_close">Fermer Menu de Navigation</string>
+    <string name="nav_header_title">Phares Français</string>
+    <string name="nav_header_desc">En-tête de Navigation</string>
+
+    <string name="menu_home">Accueil</string>
+    <string name="phare_home_description">Photo de Phare pour le menu home</string>
+    <string name="menu_list">Liste des Phares</string>
+    <string name="menu_map">Carte</string>
+    <string name="menu_propos">A Propos</string>
+    <string name="text_mail" translatable="false">desio.j@live.fr</string>
+    <string name="text_legend">Vidéo de Présentation de Phare</string>
+    <string name="application_par">Application Réalisé par :</string>
+    <string name="welcome_message">Message de bienvenue</string>
+    <string name="contact">Me contacter :</string>
+</resources>
